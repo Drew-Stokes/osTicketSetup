@@ -34,13 +34,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <b>Step 1: Create an Azure Virtual Machine & Connect via Remote Desktop</b>
+</p>
 ![CreatenewVM](https://github.com/user-attachments/assets/e1b4ed92-b78b-4161-a15f-90deef12c55c)
 ![customizeVM](https://github.com/user-attachments/assets/8a49cb80-fce4-4a3c-a649-77f7b2819ed5)
 ![GetpublicIP](https://github.com/user-attachments/assets/9f7c1238-dcbd-4d90-aab9-312c8ecdf943)
 ![logintoremotedesktop](https://github.com/user-attachments/assets/818b7508-2910-4fad-8668-af52b82f34c0)
-
-
-</p>
 <p>
 Create an Azure Virtual Machine
 
