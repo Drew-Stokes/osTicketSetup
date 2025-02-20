@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 Create an Azure Virtual Machine
-![Image](https://github.com/user-attachments/assets/46ec6bd6-de3e-401c-a77a-f32fd95bda8c)
+https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/f7afa3e582d6440fb93cbe3f709bb934f990bb51/CreatenewVM.png
 
 OS: Windows 10
 vCPUs: 4
