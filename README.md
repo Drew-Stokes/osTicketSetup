@@ -37,8 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 
 </p>
-https://imgur.com/a/WRoDO1r
-https://imgur.com/lGOpQKg
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/WRoDO1r" data-context="false" ><a href="//imgur.com/a/WRoDO1r"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <p>
 Create an Azure Virtual Machine
 
