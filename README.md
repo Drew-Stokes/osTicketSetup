@@ -118,6 +118,7 @@ Password: root
 
 Open IIS Manager.
 Go to PHP Manager → Register new PHP version → C:\PHP\php-cgi.exe.
+<img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/4a54c3a56bed0b732e507028ca045ffcf6f222e3/Configuration_wizzard.png" height="30%" width="30%"/>
 Reload IIS (Stop & Start Server).
 </p>
 <br />
