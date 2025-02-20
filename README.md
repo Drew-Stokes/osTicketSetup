@@ -106,7 +106,9 @@ Step 2: Install IIS, PHP, and Required Modules**
 
 <p>
 <b>Step 3: Install MySQL & Configure IIS for PHP</b>
-</p>
+<details>
+<summary><b>Click to Expand</b></summary>
+
 <p>
 Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 <p>
@@ -134,6 +136,7 @@ Reload IIS (Stop & Start Server).
 </p>
 </p>
 <br />
+</details>
 <p>
 <b>Step 4: Install & Configure osTicket</b>
 </p>
