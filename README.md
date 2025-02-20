@@ -37,10 +37,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 
 </p>
+![CreatenewVM](https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/f7afa3e582d6440fb93cbe3f709bb934f990bb51/CreatenewVM.png)
 
 <p>
 Create an Azure Virtual Machine
-![image_alt](https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/f7afa3e582d6440fb93cbe3f709bb934f990bb51/CreatenewVM.png)
+
 
 OS: Windows 10
 vCPUs: 4
