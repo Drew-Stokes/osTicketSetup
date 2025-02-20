@@ -179,7 +179,8 @@ Add new permissions → Everyone → Full Control
 </details>
 <p>
 <b>Step 5: Set Up osTicket & Final Configurations</b>
-</p>
+<details>
+<summary><b>Click to Expand</b></summary>
 <p>
 Complete osTicket Setup in Browser
 Name your Helpdesk.
@@ -220,5 +221,5 @@ Set C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read-only.
 http://localhost/osTicket/scp/login.php
 
 http://localhost/osTicket/
-
+</details>
 </p>
