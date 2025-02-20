@@ -142,9 +142,12 @@ Rename upload to osTicket.
 </p>
 <p>
   Reload IIS & Open osTicket in Browser
-
 In IIS, go to Sites → Default Web Site → osTicket.
 Click *Browse :80.
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/cb3fd1aecf3895f9ae6e37ea9d08976377f00fe7/open_osTicket.png" height="30%" width="30%"/>
+</p>
+</p>
 </p>
 <p>
   Configure ost-config.php
