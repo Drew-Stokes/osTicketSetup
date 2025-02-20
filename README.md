@@ -151,13 +151,18 @@ Click *Browse :80.
 </p>
 <p>
   Configure ost-config.php
-
+ <p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/7cbae1129530222386f78c19a4d6c1d75dfec973/configure_ost_php.png" height="30%" width="30%"/>
+</p>
 Rename:
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 Assign Permissions:
 Disable inheritance → Remove All
 Add new permissions → Everyone → Full Control
+<p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/e281dbbdb80cedb81a34931ffcf099684094e024/Rename_ost.png" height="30%" width="30%"/>
+</p>
 </p>
 <br />
 <p>
