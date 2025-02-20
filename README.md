@@ -110,7 +110,7 @@ Launch Configuration Wizard → Standard Configuration
 Username: root
 Password: root
 <p>
-  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/0815ca5b7ece0de72614866cf66b845a4a956685/install_mysql.png" height="30%" width="30%"/>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/4a54c3a56bed0b732e507028ca045ffcf6f222e3/Configuration_wizzard.png" height="30%" width="30%"/>
 </p>
 </p>
 <p>
