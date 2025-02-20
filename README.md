@@ -37,11 +37,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 
 </p>
-<img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/57ca42baa7de00b7e19d3006019cfb3a1039eac2/CreatenewVM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/57ca42baa7de00b7e19d3006019cfb3a1039eac2/CreatenewVM.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+
 <p>
 Create an Azure Virtual Machine
-
-
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/76c5b945ac6481e0d467c39aa9e2195a4f5e2be7/customizeVM.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 OS: Windows 10
 vCPUs: 4
 Name: osticket-vm
@@ -50,6 +52,9 @@ Password: osTicketPassword1!
 </p>
 <p>
   Log in to the VM using Remote Desktop (RDP).
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/fae8f7b5fc522de4da0d064eb893dc2e1e09597b/logintoremotedesktop.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+  </p>
 </p>
 <br />
 
