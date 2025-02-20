@@ -180,6 +180,9 @@ Set a default email for customer support.
   Set Up MySQL Database in HeidiSQL
 Install HeidiSQL.
 Open HeidiSQL → Create a new session (root/root).
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/e88dce3e68e5d054ae577d8022752bc01089835c/heidiSQL_setup.png" height="30%" width="30%"/>
+</p>
 Connect & Create a database called osTicket.
 </p>
 <p>
