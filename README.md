@@ -184,6 +184,9 @@ Open HeidiSQL → Create a new session (root/root).
   <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/e88dce3e68e5d054ae577d8022752bc01089835c/heidiSQL_setup.png" height="30%" width="30%"/>
 </p>
 Connect & Create a database called osTicket.
+<p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/91f41ba6d28d8a18554c72cc3dcf669c6f4285d3/connect_create_ost_database.png" height="30%" width="30%"/>
+</p>
 </p>
 <p>
   Finalize osTicket Setup
