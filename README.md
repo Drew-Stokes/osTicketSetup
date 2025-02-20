@@ -34,6 +34,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <b>Step 1: Create an Azure Virtual Machine & Connect via Remote Desktop</b>
+<details>
+<summary><b>Click to Expand</b></summary>
+
   
 
 </p>
@@ -55,6 +58,7 @@ Password: osTicketPassword1!
   <p>
   <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/fae8f7b5fc522de4da0d064eb893dc2e1e09597b/logintoremotedesktop.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
   </p>
+  </details>
 </p>
 <br />
 
