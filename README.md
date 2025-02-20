@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 Create an Azure Virtual Machine
-<img src="https://imgur.com/a/WRoDO1r" height="80%" width="50%" alt="Disk Sanitization Steps"/>
+[Imgur](https://imgur.com/uR7Loxm)
 OS: Windows 10
 vCPUs: 4
 Name: osticket-vm
