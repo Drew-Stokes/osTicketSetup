@@ -72,6 +72,9 @@ Password: osTicketPassword1!
   ```sh
   C:\PHP
 </p>
+<p>
+  Extract php-7.3.8-nts-Win32-VC15-x86.zip into C:\PHP.
+</p>
 <br />
 
 <p>
@@ -120,4 +123,42 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 Assign Permissions:
 Disable inheritance → Remove All
 Add new permissions → Everyone → Full Control
+</p>
+<br />
+<p>
+<b>Step 5: Set Up osTicket & Final Configurations</b>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Complete osTicket Setup in Browser
+Name your Helpdesk.
+Set a default email for customer support.
+</p>
+<p>
+  Set Up MySQL Database in HeidiSQL
+Install HeidiSQL.
+Open HeidiSQL → Create a new session (root/root).
+Connect & Create a database called osTicket.
+</p>
+<p>
+  Finalize osTicket Setup
+In the browser, enter:
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+
+Click Install Now!
+</p>
+<p>
+  Secure Installation
+
+  Delete the setup folder:
+  C:\inetpub\wwwroot\osTicket\setup
+
+Set C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read-only.
+
+http://localhost/osTicket/scp/login.php
+
+http://localhost/osTicket/
+
 </p>
