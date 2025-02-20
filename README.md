@@ -99,15 +99,19 @@ Password: osTicketPassword1!
 
 <p>
 <b>Step 3: Install MySQL & Configure IIS for PHP</b>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
-
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/0815ca5b7ece0de72614866cf66b845a4a956685/install_mysql.png" height="30%" width="30%"/>
+</p>
 Setup Type: Typical
 Launch Configuration Wizard → Standard Configuration
 Username: root
 Password: root
+<p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/0815ca5b7ece0de72614866cf66b845a4a956685/install_mysql.png" height="30%" width="30%"/>
+</p>
 </p>
 <p>
   Configure PHP in IIS
