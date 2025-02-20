@@ -167,12 +167,14 @@ Add new permissions → Everyone → Full Control
 <br />
 <p>
 <b>Step 5: Set Up osTicket & Final Configurations</b>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Complete osTicket Setup in Browser
 Name your Helpdesk.
 Set a default email for customer support.
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/e75e2d10684a875f900ae78356dd3b1748594f3a/name_help_desk.png" height="30%" width="30%"/>
+</p>
 </p>
 <p>
   Set Up MySQL Database in HeidiSQL
