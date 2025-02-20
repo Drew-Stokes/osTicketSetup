@@ -63,7 +63,9 @@ Password: osTicketPassword1!
 <br />
 
 <p>
-## **Step 2: Install IIS, PHP, and Required Modules**
+Step 2: Install IIS, PHP, and Required Modules**
+<details>
+<summary><b>Click to Expand</b></summary>
 </p>
 <p>
 ### **Enable IIS with CGI**
@@ -98,6 +100,7 @@ Password: osTicketPassword1!
   <p>
     <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/325a2578546ed1bbc493e6819eec954ea35a9268/Extract_PHP_7.3.8.png" height="30%" width="30%"/>
   </p>
+</details>
 </p>
 <br />
 
