@@ -139,7 +139,8 @@ Reload IIS (Stop & Start Server).
 </details>
 <p>
 <b>Step 4: Install & Configure osTicket</b>
-</p>
+<details>
+<summary><b>Click to Expand</b></summary>
 <p>
 Install osTicket v1.15.8
 
@@ -175,6 +176,7 @@ Add new permissions → Everyone → Full Control
 </p>
 </p>
 <br />
+</details>
 <p>
 <b>Step 5: Set Up osTicket & Final Configurations</b>
 </p>
