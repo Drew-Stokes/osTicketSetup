@@ -60,13 +60,15 @@ Password: osTicketPassword1!
 
 <p>
 ## **Step 2: Install IIS, PHP, and Required Modules**
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 ### **Enable IIS with CGI**
 - Go to **Control Panel** → **Programs and Features** → **Turn Windows features on or off**.  
 - Under **Internet Information Services (IIS)** → **World Wide Web Services** → **Application Development Features**, enable:  
-  - ✅ CGI  
+  - ✅ CGI 
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/27c3b8a87894e947c1645258fb900af304803cfc/EnableIIS_w_cgi.png" height="30%" width="30%"/>
+  </p>
 </p>
 <p>
 ### **Install Required Components**
@@ -74,15 +76,24 @@ Password: osTicketPassword1!
   - **PHP Manager for IIS** (`PHPManagerForIIS_V1.5.0.msi`)  
   - **Rewrite Module** (`rewrite_amd64_en-US.msi`)  
   - **VC_redist.x86.exe**  
+  <p>
+    <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/5444e2331c1dbe962e17d127b344ff7ae901ec54/install_PHPmanager_install_rewriteModule.png" height="30%" width="30%"/>
+  </p>
 </p>
 <p>
 ### **Set Up PHP**
-- Create a new directory:  
+- Create a new directory:
   ```sh
   C:\PHP
+  <p>
+    <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/325a2578546ed1bbc493e6819eec954ea35a9268/PHP_directory.png" height="30%" width="30%"/>
+  </p>
 </p>
 <p>
   Extract php-7.3.8-nts-Win32-VC15-x86.zip into C:\PHP.
+  <p>
+    <img src="https://github.com/Drew-Stokes/osTicket_Prerequsites_Instalation/blob/325a2578546ed1bbc493e6819eec954ea35a9268/Extract_PHP_7.3.8.png" height="30%" width="30%"/>
+  </p>
 </p>
 <br />
 
